@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello world!
+My name is Omar and I like developing.
+## Projects 
+1- berosato.github.io 
 
-<!--
-**BeroSato/BeroSato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Source code: https://github.com/berosato/berosato.github.io
 
-Here are some ideas to get you started:
+Progress: development is close to be done
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2- simpleUWPapp
+
+Progress: development is not started yet
+
+3- KartRacing
+
+Progress: development is not started yet
+## Social media
+YouTube: https://youtube.com/c/BeroSato
+
+Twitter: https://twitter.com/Bero_Sato
