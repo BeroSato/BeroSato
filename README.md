@@ -5,15 +5,17 @@ My name is Omar and I like developing.
 
 Source code: https://github.com/berosato/berosato.github.io
 
-Progress: development is close to be done
+Progress: development is done.
 
 2- simpleUWPapp
 
-Progress: development is not started yet
+Source code: [Soon]
+
+Progress: development is going to start soon.
 
 3- KartRacing
 
-Progress: development is not started yet
+Progress: development is not started yet.
 ## Social media
 YouTube: https://youtube.com/c/BeroSato
 
