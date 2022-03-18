@@ -1,5 +1,7 @@
+![berosatologo](https://user-images.githubusercontent.com/75726739/158963002-8232900d-677f-4c63-bb69-9a065cda69f6.png)
+
 ## Hello world!
-My name is Omar and I like developing.
+My name is Omar and I like nerding.
 ## Projects 
 1- berosato.github.io 
 
@@ -14,6 +16,8 @@ Source code: [Soon]
 Progress: development is going to start soon.
 
 3- KartRacing
+
+Source code: [Closed source]
 
 Progress: development is not started yet.
 ## Social media
