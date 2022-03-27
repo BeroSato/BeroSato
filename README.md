@@ -9,7 +9,7 @@ Source code: https://github.com/berosato/berosato.github.io
 
 Progress: development is done.
 
-2- simpleUWPapp
+2- simpleUWPapps
 
 Source code: [Soon]
 
