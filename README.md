@@ -1,4 +1,4 @@
-![berosatologo](https://user-images.githubusercontent.com/75726739/158963002-8232900d-677f-4c63-bb69-9a065cda69f6.png)
+![logoalt](https://user-images.githubusercontent.com/75726739/213913679-99fe6161-f55c-48ef-a90c-e371cd752f0c.png)
 
 ## Hello world!
 My name is Omar and I like nerding.
